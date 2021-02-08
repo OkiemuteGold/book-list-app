@@ -1,0 +1,8 @@
+Using js classes
+Using array, object
+Event propagation
+Learning more js methods
+DOM Manipulation
+Form validation using html (setCustomValidity oninvalid, and oninput)
+Form validation using js
+Using localStorage (get, add, and remove data)
